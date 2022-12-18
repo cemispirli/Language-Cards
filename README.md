@@ -1,3 +1,4 @@
+![](https://github.com/cemispirli/language-cards/blob/master/languagecard.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
